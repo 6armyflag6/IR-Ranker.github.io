@@ -28,6 +28,6 @@ Education
 
 Experiences
 ======
-* ***Nov. 2018 - Present***, Internship, Huawei Noah’s Ark Lab.
+* ***Nov. 2018 - Dec. 2019***, Internship, Huawei Noah’s Ark Lab.
 * ***Feb. 2019***, WSDM 2019 Doctoral Consortium.
 * ***Jun. 2018 - Sep. 2018***, Visiting student, NExT++ Research Center, National University of Singapore.
